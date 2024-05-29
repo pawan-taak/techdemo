@@ -1,0 +1,58 @@
+
+.bg-main{
+    background: #000;
+}
+
+.hover-section:hover{    
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+
+
+
+/* shape changer header */
+
+
+.custom-shape-divider-bottom-1715320172 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    border: none;
+}
+
+.custom-shape-divider-bottom-1715320172 svg {
+    position: relative;
+    display: block;
+    width: calc(119% + 1.3px);
+    height: 92px;
+}
+
+.custom-shape-divider-bottom-1715320172 .shape-fill {
+    fill: #FFFFFF;
+}
+
+/* shape changer footer */
+
+.custom-shape-divider-top-1715407637 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1715407637 svg {
+    position: relative;
+    display: block;
+    width: calc(121% + 1.3px);
+    height: 105px;
+}
+
+.custom-shape-divider-top-1715407637 .shape-fill {
+    fill: #FFFFFF;
+}
